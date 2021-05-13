@@ -23,7 +23,7 @@ Expense
 3. The `Edit` feature will give the user the permission to edit their expenses
 4. The `Delete` feature will let the user delete their expenses
 
-3. Check Expenses by Time Period
+Check Expenses by Time Period
 --------------------------------
 
 
