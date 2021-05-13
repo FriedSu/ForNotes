@@ -3,12 +3,12 @@
 
 ![alt text](https://github.com/FriedSu/ForNotes/raw/master/images/S_Banner.png "Members of Scrumbledore's Army")
 
-    ## Features
+## Features
 These are the features that our app contains.
 
-        ###Budgeting
+###Budgeting
         
-        1. Input
-        ..1. Display
+1. Input
+..1. Display
 
 
