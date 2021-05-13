@@ -6,7 +6,8 @@
 ## Features
 These are the features that our app contains.
 
-###Budgeting
+Alt-Budgeting
+-------------
         
     1. Input
 
