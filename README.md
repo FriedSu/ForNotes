@@ -7,7 +7,7 @@ Features
 ========
 These are the MVPs that our app contains.
 
-Budgeting
+1. Budget
 ---------
         
 1. The `Input` feature will allow the user to input a budget
@@ -15,7 +15,16 @@ Budgeting
 3. The `Edit` feature will give the user the permission to edit their budget
 4. The `Delete` feature will let the user delete their budget
     
+2. Expense
+----------
 
+1. The `Input` feature will allow the user to input an expense
+2. The `Display` feature will output the budget after the user inputs an expense
+3. The `Edit` feature will give the user the permission to edit their expenses
+4. The `Delete` feature will let the user delete their expenses
+
+3. Check Expenses by Time Period
+--------------------------------
 
 
 
