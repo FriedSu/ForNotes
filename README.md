@@ -8,7 +8,7 @@ These are the features that our app contains.
 
 ###Budgeting
         
-1. Input
-..1. Display
+    1. Input
+
 
 
