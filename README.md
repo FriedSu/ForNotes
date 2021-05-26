@@ -46,8 +46,7 @@ Analysis
 --------------------
 1. The `Display Expenses by Month` feature displays the months with the expenses for each of the months 
 2. The `Display Expenses by Category` features displays the category of expenses
-
-> The categories are displayed and put into a percentage for each category in the users expenses
+    > The categories are displayed and put into a percentage for each category in the users expenses
 
 Notifications
 -------------
