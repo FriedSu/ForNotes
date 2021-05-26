@@ -30,9 +30,7 @@ Expense
 
 Check Expenses by Time Period
 --------------------------------
-1. The `Daily` feature checks the expenses on a daily basis
-2. The `Weekly` feature checks the expenses on a weekly basis
-3. The `Monthly` feature checks the expenses on a monthly basis
+1. The `Monthly` feature checks the total expenses on a monthly basis
 
 Calculate Modified Expense
 --------------------------
@@ -44,10 +42,16 @@ Categories of Expenses
 
 1. The `Tagging` feature creates a tagging system for expenses so that they can be sorted in specific classes
 
+Expenses by Category
+--------------------
+1. The `Display Expenses by Category` features displays the category of expenses
+
+> The categories are displayed and put into a percentage for each category in the users expenses
+
 Notifications
 -------------
 
-1. The `Notification` feature alerts the user when they approach to go over their budget
+1. The `Notification` feature alerts the user when they go over their budget
 
 Datastoring to CSV File
 -----------------------
